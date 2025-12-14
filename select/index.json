@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "strawberry moon",
+  "base_artist": "IU",
+  "createdAt": "2025-12-14T15:52:25.367981Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Strawberry Moon",
+      "artist": "YACHT",
+      "has_synced": true,
+      "path": "select/01_Strawberry_Moon_YACHT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "strawberry moon",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/02_strawberry_moon_IU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Strawberry Moon",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/03_Strawberry_Moon_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Strawberry Moon [ストロベリームーン]",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/04_Strawberry_Moon_[ストロベリームーン]_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Strawberry Moon",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/05_Strawberry_Moon_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Strawberry Moon",
+      "artist": "CASCADE",
+      "has_synced": false,
+      "path": "select/06_Strawberry_Moon_CASCADE.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Strawberry Moon",
+      "artist": "Helena Deland",
+      "has_synced": false,
+      "path": "select/07_Strawberry_Moon_Helena_Deland.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Strawberry Moon",
+      "artist": "Dennis van Aarssen",
+      "has_synced": false,
+      "path": "select/08_Strawberry_Moon_Dennis_van_Aarssen.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Strawberry Moon",
+      "artist": "Alela Diane",
+      "has_synced": true,
+      "path": "select/09_Strawberry_Moon_Alela_Diane.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Strawberry Moon",
+      "artist": "Lydia Luce",
+      "has_synced": false,
+      "path": "select/10_Strawberry_Moon_Lydia_Luce.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Strawberry Moon",
+      "artist": "The Altogether",
+      "has_synced": true,
+      "path": "select/11_Strawberry_Moon_The_Altogether.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Strawberry Moon",
+      "artist": "Arab Strap",
+      "has_synced": true,
+      "path": "select/12_Strawberry_Moon_Arab_Strap.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Strawberry Moon",
+      "artist": "Arab Strap",
+      "has_synced": false,
+      "path": "select/13_Strawberry_Moon_Arab_Strap.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "strawberry moon",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_strawberry_moon_IU.txt"
+    }
+  ]
+}
